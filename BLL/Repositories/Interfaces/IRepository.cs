@@ -14,6 +14,8 @@ namespace BLL.Repositories.Interfaces
 
         void Edit(T entity);
 
+        void Delete(string name); 
+
         List<T> GetAll();
 
         T FindByName(string name);
