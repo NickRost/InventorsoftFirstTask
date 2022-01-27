@@ -1,0 +1,12 @@
+C:\Users\ayanc\source\repos\ComicsShop\Utilities\bin\Debug\net5.0\Utilities.deps.json
+C:\Users\ayanc\source\repos\ComicsShop\Utilities\bin\Debug\net5.0\Utilities.dll
+C:\Users\ayanc\source\repos\ComicsShop\Utilities\bin\Debug\net5.0\ref\Utilities.dll
+C:\Users\ayanc\source\repos\ComicsShop\Utilities\bin\Debug\net5.0\Utilities.pdb
+C:\Users\ayanc\source\repos\ComicsShop\Utilities\obj\Debug\net5.0\Utilities.csprojAssemblyReference.cache
+C:\Users\ayanc\source\repos\ComicsShop\Utilities\obj\Debug\net5.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayanc\source\repos\ComicsShop\Utilities\obj\Debug\net5.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\ayanc\source\repos\ComicsShop\Utilities\obj\Debug\net5.0\Utilities.AssemblyInfo.cs
+C:\Users\ayanc\source\repos\ComicsShop\Utilities\obj\Debug\net5.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\ayanc\source\repos\ComicsShop\Utilities\obj\Debug\net5.0\Utilities.dll
+C:\Users\ayanc\source\repos\ComicsShop\Utilities\obj\Debug\net5.0\ref\Utilities.dll
+C:\Users\ayanc\source\repos\ComicsShop\Utilities\obj\Debug\net5.0\Utilities.pdb

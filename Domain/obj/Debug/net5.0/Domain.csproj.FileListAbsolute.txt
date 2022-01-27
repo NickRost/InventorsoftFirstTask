@@ -1,0 +1,15 @@
+C:\Users\ayanc\source\repos\ComicsShop\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\ayanc\source\repos\ComicsShop\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\ayanc\source\repos\ComicsShop\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\ayanc\source\repos\ComicsShop\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\ayanc\source\repos\ComicsShop\Domain\bin\Debug\net5.0\Utilities.dll
+C:\Users\ayanc\source\repos\ComicsShop\Domain\bin\Debug\net5.0\Utilities.pdb
+C:\Users\ayanc\source\repos\ComicsShop\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+C:\Users\ayanc\source\repos\ComicsShop\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayanc\source\repos\ComicsShop\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\ayanc\source\repos\ComicsShop\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\ayanc\source\repos\ComicsShop\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ayanc\source\repos\ComicsShop\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+C:\Users\ayanc\source\repos\ComicsShop\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\ayanc\source\repos\ComicsShop\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\ayanc\source\repos\ComicsShop\Domain\obj\Debug\net5.0\Domain.pdb
