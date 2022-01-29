@@ -20,6 +20,11 @@ namespace BLL.Services.Classes
             authorRepository = new AuthorRepository();
         }
 
+        public void AddAuthor(Author author)
+        {
+            authorRepository.Add(author);
+        }
+
         public void DeleteAuthor(string authorName)
         {
             authorRepository.Delete(authorName);

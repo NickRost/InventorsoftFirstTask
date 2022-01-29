@@ -7,6 +7,8 @@ namespace BLL.Managers.Interfaces
 {
     public interface ITagService
     {
+        void AddTag(Tag tag);
+
         Tag GetTagByName(string name);
 
         void DeleteTag(string tagName);

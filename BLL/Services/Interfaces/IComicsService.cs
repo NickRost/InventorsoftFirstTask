@@ -10,6 +10,8 @@ namespace BLL.Services.Interfaces
 {
     interface IComicsService
     {
+        void AddComics(Comics comics);
+
         Comics GetComicsByName(string name);
 
         void DeleteComics(string comicsName);

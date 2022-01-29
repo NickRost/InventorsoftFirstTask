@@ -10,6 +10,8 @@ namespace BLL.Services.Interfaces
 {
     interface IAuthorService
     {
+        void AddAuthor(Author author);
+
         Author GetAuthorByName(string name);
 
         void DeleteAuthor(string authorName);

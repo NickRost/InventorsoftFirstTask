@@ -14,10 +14,26 @@ namespace BLL.Services.Classes
     public class ComicsService : IComicsService
     {
         private readonly IComicsRepository comicsRepository;
+        private readonly IAuthorService authorService;
 
         public ComicsService()
         {
             comicsRepository = new ComicsRepository();
+            authorService = new AuthorService();
+        }
+
+        public void AddComics(Comics comics)
+        {
+            comicsRepository.Add(comics);
+
+            if (comics.Author != null)
+            {
+                var author = authorService.GetAuthorByName(comics.Author.FirstName + " " + comics.Author.LastName);
+                if (author == null)
+                {
+                    authorService.AddAuthor(comics.Author);
+                }
+            }
         }
 
         public void DeleteComics(string comicsName)

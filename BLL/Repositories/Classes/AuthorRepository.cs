@@ -31,7 +31,7 @@ namespace BLL.Repositories.Classes
 
         public Author FindByName(string name)
         {
-            return FakeDBContext.Authors.FirstOrDefault(x => x.FirstName == name);
+            return FakeDBContext.Authors.FirstOrDefault(x => x.FirstName + " " + x.LastName == name);
         }
 
         public List<Author> FindMany(Expression<Func<Author, bool>> filter = null)

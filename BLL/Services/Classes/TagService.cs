@@ -1,6 +1,7 @@
 ﻿using BLL.Managers.Interfaces;
 using BLL.Repositories.Classes;
 using BLL.Repositories.Interfaces;
+using BLL.Services.Interfaces;
 using Domain.Models;
 using System;
 using System.Collections.Generic;
@@ -15,6 +16,11 @@ namespace BLL.Services.Classes
         public TagService()
         {
             tagRepository = new TagRepository();
+        }
+
+        public void AddTag(Tag tag)
+        {
+            tagRepository.Add(tag);
         }
 
         public void DeleteTag(string tagName)
