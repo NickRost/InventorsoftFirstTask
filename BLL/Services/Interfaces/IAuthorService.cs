@@ -12,9 +12,9 @@ namespace BLL.Services.Interfaces
     {
         Author GetAuthorByName(string name);
 
-        void DeleteAuthor(string comicsName);
+        void DeleteAuthor(string authorName);
 
-        void EditAuthor(Author comics);
+        void EditAuthor(Author author);
 
         List<Author> GetAllAuthors();
 
