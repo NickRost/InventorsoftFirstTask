@@ -10,3 +10,15 @@ C:\Users\ayanc\source\repos\ComicsShop\Utilities\obj\Debug\net5.0\Utilities.cspr
 C:\Users\ayanc\source\repos\ComicsShop\Utilities\obj\Debug\net5.0\Utilities.dll
 C:\Users\ayanc\source\repos\ComicsShop\Utilities\obj\Debug\net5.0\ref\Utilities.dll
 C:\Users\ayanc\source\repos\ComicsShop\Utilities\obj\Debug\net5.0\Utilities.pdb
+D:\Inventorsoft\First\InventorsoftFirstTask\Utilities\bin\Debug\net5.0\Utilities.deps.json
+D:\Inventorsoft\First\InventorsoftFirstTask\Utilities\bin\Debug\net5.0\Utilities.dll
+D:\Inventorsoft\First\InventorsoftFirstTask\Utilities\bin\Debug\net5.0\ref\Utilities.dll
+D:\Inventorsoft\First\InventorsoftFirstTask\Utilities\bin\Debug\net5.0\Utilities.pdb
+D:\Inventorsoft\First\InventorsoftFirstTask\Utilities\obj\Debug\net5.0\Utilities.csproj.AssemblyReference.cache
+D:\Inventorsoft\First\InventorsoftFirstTask\Utilities\obj\Debug\net5.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Inventorsoft\First\InventorsoftFirstTask\Utilities\obj\Debug\net5.0\Utilities.AssemblyInfoInputs.cache
+D:\Inventorsoft\First\InventorsoftFirstTask\Utilities\obj\Debug\net5.0\Utilities.AssemblyInfo.cs
+D:\Inventorsoft\First\InventorsoftFirstTask\Utilities\obj\Debug\net5.0\Utilities.csproj.CoreCompileInputs.cache
+D:\Inventorsoft\First\InventorsoftFirstTask\Utilities\obj\Debug\net5.0\Utilities.dll
+D:\Inventorsoft\First\InventorsoftFirstTask\Utilities\obj\Debug\net5.0\ref\Utilities.dll
+D:\Inventorsoft\First\InventorsoftFirstTask\Utilities\obj\Debug\net5.0\Utilities.pdb

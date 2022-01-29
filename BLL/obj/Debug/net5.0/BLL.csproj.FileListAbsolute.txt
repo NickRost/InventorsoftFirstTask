@@ -15,3 +15,11 @@ C:\Users\ayanc\source\repos\ComicsShop\BLL\obj\Debug\net5.0\BLL.csproj.CopyCompl
 C:\Users\ayanc\source\repos\ComicsShop\BLL\obj\Debug\net5.0\BLL.dll
 C:\Users\ayanc\source\repos\ComicsShop\BLL\obj\Debug\net5.0\ref\BLL.dll
 C:\Users\ayanc\source\repos\ComicsShop\BLL\obj\Debug\net5.0\BLL.pdb
+D:\Inventorsoft\First\InventorsoftFirstTask\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\Inventorsoft\First\InventorsoftFirstTask\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Inventorsoft\First\InventorsoftFirstTask\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\Inventorsoft\First\InventorsoftFirstTask\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\Inventorsoft\First\InventorsoftFirstTask\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\Inventorsoft\First\InventorsoftFirstTask\BLL\obj\Debug\net5.0\BLL.dll
+D:\Inventorsoft\First\InventorsoftFirstTask\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\Inventorsoft\First\InventorsoftFirstTask\BLL\obj\Debug\net5.0\BLL.pdb
