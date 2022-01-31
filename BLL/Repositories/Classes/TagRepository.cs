@@ -15,13 +15,20 @@ namespace BLL.Repositories.Classes
             FakeDBContext.Tags.Add(entity);
         }
 
-        // ToDo
-        public void Edit(Tag entity)
+        public void Delete(string name)
         {
-            throw new NotImplementedException();
+            var tag = FakeDBContext.Tags.Where(x => x.Name == name).FirstOrDefault();
+            FakeDBContext.Tags.Remove(tag);
         }
 
-        // ToDo
+        
+        public void Edit(Tag entity)
+        {
+            var index = FakeDBContext.Tags.FindIndex(x => x.Id == entity.Id); // тут не знав як краще редагувати
+            FakeDBContext.Tags[index] = entity;
+        }
+
+        
         public Tag FindByName(string name)
         {
             return FakeDBContext.Tags.FirstOrDefault(x=>x.Name == name);
@@ -41,13 +48,18 @@ namespace BLL.Repositories.Classes
         // ToDo
         public Tag FindOne(Expression<Func<Tag, bool>> filter = null)
         {
-            throw new NotImplementedException();
+            if (filter != null)
+            {
+                return FakeDBContext.Tags.Where(filter.Compile()).FirstOrDefault();
+            }
+
+            return null;
         }
 
-        // ToDo
+        
         public List<Tag> GetAll()
         {
-            throw new NotImplementedException();
+            return FakeDBContext.Tags;
         }
     }
 }
