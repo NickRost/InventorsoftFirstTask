@@ -19,7 +19,7 @@ namespace BLL.Repositories.Classes
 
         public void Delete(string name)
         {
-            var author = FakeDBContext.Authors.Where(x => x.FirstName == name).FirstOrDefault();
+            var author = FakeDBContext.Authors.Where(x => x.FirstName + " " + x.LastName == name).FirstOrDefault();
             FakeDBContext.Authors.Remove(author);
         }
 

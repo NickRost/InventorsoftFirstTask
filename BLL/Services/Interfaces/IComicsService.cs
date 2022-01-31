@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Services.Interfaces
 {
-    interface IComicsService
+    public interface IComicsService
     {
         void AddComics(Comics comics);
 

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Services.Interfaces
 {
-    interface IAuthorService
+    public interface IAuthorService
     {
         void AddAuthor(Author author);
 
