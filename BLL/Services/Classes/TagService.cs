@@ -13,7 +13,7 @@ namespace BLL.Services.Classes
     {
         private readonly ITagRepository tagRepository;
 
-        public TagService()
+        public TagService() // test commit
         {
             tagRepository = new TagRepository();
         }
